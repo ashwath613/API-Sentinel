@@ -2,7 +2,7 @@
 
 Api Sentinel is a backend-focused API security testing platform built with Python and FastAPI.
 
-It helps developers find common security issues in APIs by automatically discovering endpoints and testing them for possible vulnerabilities. and also provoide detailed report for induvial endpoints in the console for bettter understandings about upcomming vulnerabilities and errors
+It helps developers find common security issues in APIs by automatically discovering endpoints and testing them for possible vulnerabilities. and also provoide detailed report for individual endpoints in the console for bettter understandings about upcomming vulnerabilities and errors
 
 ## What It Does
 
